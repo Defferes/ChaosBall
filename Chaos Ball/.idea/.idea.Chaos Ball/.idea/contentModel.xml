@@ -46,6 +46,11 @@
             <e p="Skybox-Procedural.shader" t="Include" />
           </e>
         </e>
+        <e p="Scripts" t="Include">
+          <e p="GameManager.cs" t="Include" />
+          <e p="GoalScript.cs" t="Include" />
+          <e p="VelocityScript.cs" t="Include" />
+        </e>
         <e p="Standard Assets" t="Include">
           <e p="2D" t="Include">
             <e p="Scripts" t="Include">
@@ -240,7 +245,6 @@
             <e p="ObjectResetter.cs" t="Include" />
             <e p="ParticleSystemDestroyer.cs" t="Include" />
             <e p="PlatformSpecificContent.cs" t="Include" />
-            <e p="SimpleActivatorMenu.cs" t="Include" />
             <e p="SimpleMouseRotator.cs" t="Include" />
             <e p="SmoothFollow.cs" t="Include" />
             <e p="TimedObjectActivator.cs" t="Include" />

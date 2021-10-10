@@ -10,7 +10,38 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8730b82f-60e9-4fe1-9217-94d16e12544d" name="Default Changelist" comment="" />
+    <list default="true" id="8730b82f-60e9-4fe1-9217-94d16e12544d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chaos Ball/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chaos Ball/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chaos Ball/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chaos Ball/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/brick-807728.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/brick-807728.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/brick-957823.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/brick-957823.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/brick-957827.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/brick-957827.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/bricks-868344.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/bricks-868344.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/patch-924648.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/patch-924648.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/shading-671263.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/shading-671263.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/stone-805287.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/stone-805287.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/texture-709723.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/texture-709723.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/tile-846018.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/tile-846018.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wall-617961.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wall-617961.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wall-846013.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wall-846013.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wall-846015.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wall-846015.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-731407.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-731407.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-877000.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-877000.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-877365.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-877365.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-938698.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-938698.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Scenes/Showcase Artistic.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Scenes/Showcase Artistic.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Floor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/SuperBouncy.physicMaterial" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/SuperBouncy.physicMaterial" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Wall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Wall.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Navmesh/CarAI.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Navmesh/CarAI.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Scenes/CharacterThirdPersonAI/NavMesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Scenes/CharacterThirdPersonAI/NavMesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +49,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Downloads/Unity/Hour 10 Files Final/Completed Projects/Chaos Ball/Assets/Scripts/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/VelocityScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VelocityScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GoalScript.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1yzVrmWARPyjEqgd4q61RD79ZUe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -61,6 +105,15 @@
       <updated>1633254611323</updated>
       <workItem from="1633254612893" duration="58000" />
       <workItem from="1633254685203" duration="239000" />
+      <workItem from="1633276553435" duration="2733000" />
+      <workItem from="1633428755953" duration="464000" />
+      <workItem from="1633429473958" duration="591000" />
+      <workItem from="1633450012447" duration="2984000" />
+      <workItem from="1633459667486" duration="4700000" />
+      <workItem from="1633538852201" duration="136000" />
+      <workItem from="1633539112601" duration="3878000" />
+      <workItem from="1633810892545" duration="4399000" />
+      <workItem from="1633852137670" duration="263000" />
     </task>
     <servers />
   </component>
