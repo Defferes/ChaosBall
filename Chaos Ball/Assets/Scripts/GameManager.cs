@@ -8,8 +8,7 @@ using UnityStandardAssets.Characters.FirstPerson;
 public class GameManager : MonoBehaviour
 {
     public GoalScript blue, green, red, orange;
-    public GameObject player, blueSphere, blueBall;
-    private Transform playerPos;
+    public GameObject player;
     private FirstPersonController m_FirstPersonController;
     private bool isGameOver = false;
     private bool isRunning = false;
@@ -26,8 +25,6 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        blueBall = blueSphere;
-        playerPos = player.transform;
         m_FirstPersonController = player.GetComponent<FirstPersonController>();
         m_FirstPersonController.enabled = false;
     }
@@ -69,8 +66,8 @@ public class GameManager : MonoBehaviour
         orange.Respawn();
         red.Respawn();
         isGameOver = false;
+        player.transform.position = new Vector3(0,1,0);
         m_FirstPersonController.enabled = true;
-        //m_FirstPersonController.transform.localPosition = new Vector3(0,1,0);
         isRunning = true;
     }
 }

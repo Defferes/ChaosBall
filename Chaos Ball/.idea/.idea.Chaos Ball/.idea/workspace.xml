@@ -10,9 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8730b82f-60e9-4fe1-9217-94d16e12544d" name="Default Changelist" comment="Respawn does't good work">
+    <list default="true" id="8730b82f-60e9-4fe1-9217-94d16e12544d" name="Default Changelist" comment="Respawn work, but with kostily))">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Chaos Ball/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chaos Ball/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GoalScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GoalScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,7 @@
       <workItem from="1633538852201" duration="136000" />
       <workItem from="1633539112601" duration="3878000" />
       <workItem from="1633810892545" duration="4399000" />
-      <workItem from="1633852137670" duration="1259000" />
+      <workItem from="1633852137670" duration="2309000" />
     </task>
     <task id="LOCAL-00001" summary="Respawn does't good work">
       <created>1633852673875</created>
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633852673875</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Respawn work, but with kostily))">
+      <created>1633867239204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633867239204</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,13 +124,14 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Respawn does't good work" />
-    <option name="LAST_COMMIT_MESSAGE" value="Respawn does't good work" />
+    <MESSAGE value="Respawn work, but with kostily))" />
+    <option name="LAST_COMMIT_MESSAGE" value="Respawn work, but with kostily))" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1633852700090">
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1633867253884">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1633852700090" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1633867253884" />
     <state x="641" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1633852578156">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
