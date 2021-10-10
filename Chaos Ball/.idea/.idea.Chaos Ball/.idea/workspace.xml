@@ -10,37 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8730b82f-60e9-4fe1-9217-94d16e12544d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chaos Ball/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chaos Ball/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="8730b82f-60e9-4fe1-9217-94d16e12544d" name="Default Changelist" comment="Respawn does't good work">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Chaos Ball/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chaos Ball/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/brick-807728.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/brick-807728.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/brick-957823.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/brick-957823.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/brick-957827.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/brick-957827.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/bricks-868344.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/bricks-868344.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/patch-924648.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/patch-924648.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/shading-671263.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/shading-671263.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/stone-805287.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/stone-805287.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/texture-709723.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/texture-709723.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/tile-846018.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/tile-846018.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wall-617961.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wall-617961.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wall-846013.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wall-846013.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wall-846015.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wall-846015.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-731407.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-731407.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-877000.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-877000.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-877365.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-877365.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-938698.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Materials/wood-938698.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Scenes/Showcase Artistic.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HighQualityBricks&amp;Walls/Scenes/Showcase Artistic.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Floor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/SuperBouncy.physicMaterial" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/SuperBouncy.physicMaterial" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Wall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Wall.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Navmesh/CarAI.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Navmesh/CarAI.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Scenes/CharacterThirdPersonAI/NavMesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SampleScenes/Scenes/CharacterThirdPersonAI/NavMesh.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GoalScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GoalScript.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +30,8 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/VelocityScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VelocityScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GoalScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
       </list>
     </option>
   </component>
@@ -113,8 +85,16 @@
       <workItem from="1633538852201" duration="136000" />
       <workItem from="1633539112601" duration="3878000" />
       <workItem from="1633810892545" duration="4399000" />
-      <workItem from="1633852137670" duration="263000" />
+      <workItem from="1633852137670" duration="1259000" />
     </task>
+    <task id="LOCAL-00001" summary="Respawn does't good work">
+      <created>1633852673875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633852673875</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,5 +116,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Respawn does't good work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Respawn does't good work" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1633852700090">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1633852700090" />
+    <state x="641" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1633852578156">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="641" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1633852578156" />
   </component>
 </project>

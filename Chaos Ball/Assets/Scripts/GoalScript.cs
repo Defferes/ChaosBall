@@ -9,7 +9,7 @@ public class GoalScript : MonoBehaviour
 {
     public bool IsSolved = false;
     private GameObject colliderWith;
-    private Transform posBall;
+    private List<GameObject> ball = new List<GameObject>();
 
     private void OnTriggerEnter(Collider other)
     {
@@ -17,6 +17,7 @@ public class GoalScript : MonoBehaviour
          
         if (colliderWith.tag == gameObject.tag)
         {
+            ball.Add(colliderWith);
             IsSolved = true;
             GetComponent<Light>().enabled = false;
             colliderWith.SetActive(false);
@@ -26,26 +27,29 @@ public class GoalScript : MonoBehaviour
 
     public void Respawn()
     {
-        Random rnd = new Random();
         GetComponent<Light>().enabled = true;
         IsSolved = false;
-        colliderWith.SetActive(true);
-        if (colliderWith.tag == "Blue")
+        for (int i = 0; i < ball.Count; i++)
         {
-            colliderWith.transform.localPosition = new Vector3(6,2,-6);
+            ball[i].SetActive(true);
+            if (ball[i].tag == "Blue")
+            {
+                ball[i].transform.localPosition = new Vector3(6,2,-6);
+            }
+            if (ball[i].tag == "Green")
+            {
+                ball[i].transform.localPosition = new Vector3(21,2,3);
+            }
+            if (ball[i].tag == "Orange")
+            {
+                ball[i].transform.localPosition = new Vector3(17,2,-15);
+            }
+            if (ball[i].tag == "Red")
+            {
+                ball[i].transform.localPosition = new Vector3(-8,2,-14);
+            }
         }
-        if (colliderWith.tag == "Green")
-        {
-            colliderWith.transform.localPosition = new Vector3(21,2,3);
-        }
-        if (colliderWith.tag == "Orange")
-        {
-            colliderWith.transform.localPosition = new Vector3(17,2,-15);
-        }
-        if (colliderWith.tag == "Red")
-        {
-            colliderWith.transform.localPosition = new Vector3(-8,2,-14);
-        }
+        
         
     }
 }
